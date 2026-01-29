@@ -5,4 +5,4 @@ title: Contact
 permalink: /contact/
 ---
 
-**Email:** dhruvn@vt.edu  
+Email: dhruvn@vt.edu  
