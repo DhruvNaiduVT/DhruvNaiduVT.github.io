@@ -35,6 +35,6 @@ main:
   - title: "Contact"
     url: /contact/
 
-  - title: "Home"
-    url: /home1/
+  - title: "Me"
+    url: /Me/
 

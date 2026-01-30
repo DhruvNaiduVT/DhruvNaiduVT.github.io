@@ -1,7 +1,7 @@
 
 ---
-title: Home
-permalink: /home1/
+title: Me
+permalink: /Me/
 author_profile: true
 ---
 

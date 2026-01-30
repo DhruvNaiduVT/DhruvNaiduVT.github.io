@@ -1,7 +1,7 @@
 
 ---
 title: Contact
-author_profile: true
+permalink: /contact/
 author_profile: true
 ---
 
