@@ -1,7 +1,8 @@
 
 ---
 title: Home
-permalink: /home/
+permalink: /home1/
+author_profile: true
 ---
 
 This is Dhruv Naidu. I am a students in Data Structures and Algorithims at Virginia Tech 
