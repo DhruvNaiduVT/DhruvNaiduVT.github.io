@@ -1,7 +1,7 @@
 
 ---
 title: Me
-permalink: /Me/
+permalink: /me/
 author_profile: true
 ---
 
