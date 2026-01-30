@@ -1,8 +1,7 @@
 
 ---
-layout: page
 title: Contact
-permalink: /contact/
+author_profile: true
 ---
 
 Email: dhruvn@vt.edu  
